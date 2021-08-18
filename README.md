@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riturayat
 - 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Power BI.
 - 🌱 I’m currently learning Python, SQL, PL/SQL, Data Science and Machine Learning.
-- 💞️ I’m looking to collaborate on projects, codes written using Python for Data Science and Machine Learning.
+- 💞️ I’m looking to collaborate on projects, codes written using Python for Artificial Intelligence, Data Science and Machine Learning.
 - 📫 How to reach me riturayat65@gmail.com
 
 <!---
