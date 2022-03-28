@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riturayat
 - 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and creating games in JavaScript.
-- 🌱 I’m currently learning Python, Data Science and Machine Learning.
-- 💞️ I’m looking to collaborate on projects, codes written using Python for Artificial Intelligence, Data Science and Machine Learning.
+- 🌱 I’m currently learning R, Python and Data Analysis.
+- 💞️ I’m looking to collaborate on projects, codes written using Python or R for Artificial Intelligence, Data Analysis, Data Science and Machine Learning.
 - 📫 How to reach me riturayat65@gmail.com
 
 <!---
